@@ -1,0 +1,67 @@
+.center{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+}
+.face{
+    color: rgb(32, 51, 51);
+    font-size: 25px;
+}
+.face-center{
+    text-align: center;
+}
+.hr-style{
+    border: 2px solid gray;
+    border-bottom: none;
+}
+input{
+    width: 90%;
+    padding: 7px;
+    margin: 6px;
+    border: 2px solid cyan;
+    border-radius: 6px;
+}
+.title{
+    margin-left: 8px;
+    font-size: 18px;
+}
+.eye{
+    background-image: url(eye.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.login{
+    background-color: #5902EC;
+    width: 90%;
+    padding: 10px;
+    margin: 6px;
+    font-size: 16px;
+    font-weight: 1000;
+    color: white;
+    text-align: center;
+    border: 2px solid gainsboro;
+    cursor: pointer;
+}
+.forget{
+    margin: 6px;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+.create-text{
+    width: 55%;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    background-color: #FF8E00;
+    cursor: pointer;
+}
+.create-button{
+    text-align: center;
+}
+.bangla{
+    text-decoration: none;
+}
+.more{
+    text-decoration: none;
+}
